@@ -3,7 +3,7 @@
 GMT352_1_2122B 
 
 Scenario & context: STARS
-I recorded the names, colors, id and epoch for 4 different epochs referenced in the 4 seasons of 2022, and the information I obtained for the last epoch I observed.
+In 2022, we made star observations for different epochs we chose. As a result of our observations, we discovered stars with different colors due to their energy.We then recorded the names, ids, colors and epochs of these stars.
 
 
 *First of all, I created the table containing the names of the stars I observed, thanks to postgres.
@@ -34,6 +34,6 @@ create extension postgis;
  
  Neslihan GÖZMEN 21833149
  
- I couldn't continue
+ 
  
  

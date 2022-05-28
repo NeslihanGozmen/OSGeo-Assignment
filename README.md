@@ -3,7 +3,7 @@
 GMT352_1_2122B 
 
 Scenario & context: STARS
-In 2022, we made star observations for different epochs we chose. As a result of our observations, we discovered stars with different colors due to their energy.We then recorded the names, ids, colors and epochs of these stars.
+In 2022, we made star observations for different epochs we chose. As a result of our observations, we discovered stars with different colors due to their energy.We then recorded the names, id's, colors, and epochs of these stars.
 
 
 *First of all, I created the table containing the names of the stars I observed, thanks to postgres.
